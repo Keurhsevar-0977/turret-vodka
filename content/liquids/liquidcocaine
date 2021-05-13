@@ -1,0 +1,11 @@
+name: "Turret Liquid Cocaine"
+description: [red]Oh god...
+details: "[lime]Boosts turret firerate by 10x."
+temperature: 0
+flammability: 0
+viscosity: 0
+heatCapacity: 8
+explosiveness: 0
+effect: freezing
+color: fffffo
+research: titanium
