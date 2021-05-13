@@ -1,0 +1,8 @@
+name: "turret-vodka"
+displayName: "Turret Vodka"
+author: Keurhsevar
+description: "Adds Vodka, but not the kind that you get. Instead, boosts turret firerate by 10x."
+version: "1.0"
+minGameVersion: "126.2"
+dependencies: [ ]
+hidden: false
