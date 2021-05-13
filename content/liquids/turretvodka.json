@@ -1,0 +1,11 @@
+name: "Turret Vodka"
+description: Vodka for... turrets? Hah.
+details: "[lime]Boosts turret firerate by 10x."
+temperature: 0
+flammability: 0
+viscosity: 0
+heatCapacity: 0
+explosiveness: 0
+effect: freezing
+color: ffffff
+research: titanium
