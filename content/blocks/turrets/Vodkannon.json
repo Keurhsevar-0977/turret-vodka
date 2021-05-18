@@ -18,6 +18,7 @@ consumes: {
 ammoTypes: {
   turretvodka: {
     type: LiquidBulletType
+    liquid: turretvodka
     damage: 4
     speed: 3
     lifetime: 102
