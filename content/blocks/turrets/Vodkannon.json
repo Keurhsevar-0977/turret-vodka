@@ -1,0 +1,31 @@
+localizedName: Mist
+description: A
+size: 2
+hasItems: false
+hasPower: true
+hasLiquids: true
+health: 500
+targetGround: true
+targetAir: true
+update: true
+solid: true
+
+consumes: {
+  power: 8.1
+  liquid: {
+    liquid: turretvodka.json
+    amount: 1.1
+    booster: false
+    optional: false
+  }
+}
+
+requirements: [
+  copper/800
+  metaglass/200
+  titanium/5300
+  silicon/300
+]
+
+category: turret
+research: start
