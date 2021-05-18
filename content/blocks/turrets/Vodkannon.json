@@ -20,7 +20,7 @@ ammoTypes: {
     type: liquid
     liquid: turretvodka
     damage: 4
-    speed: 3
+    speed: 6
     lifetime: 102
     drag: 0.01
     knockback: 1.3
