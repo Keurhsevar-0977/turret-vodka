@@ -1,3 +1,4 @@
+type: LiquidTurret
 localizedName: Vodkannon
 description: Ah nyet , hello comrade , we have a spare bottle of vodka for you to throw at the enemy
 size: 2
@@ -12,18 +13,25 @@ solid: true
 
 consumes: {
   power: 8.1
-  liquid: {
-    liquid: turretvodka.json
-    amount: 1.1
-    booster: false
-    optional: false
-  }
+}
+
+ammoTypes: {
+  turretvodka: {
+    type: LiquidBulletType
+    damage: 4
+    speed: 3
+    lifetime: 102
+    drag: 0.01
+    knockback: 1.3
+    status: unmoving
+    orbSize: 5
+  } 
 }
 
 requirements: [
   copper/800
   metaglass/200
-  titanium/5300
+  titanium/530
   silicon/300
 ]
 
