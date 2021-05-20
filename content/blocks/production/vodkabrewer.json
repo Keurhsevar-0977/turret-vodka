@@ -40,4 +40,4 @@ requirements: [
 category: crafting
 
 
-outputItem: turretvodka.json/16
+outputLiquid: turretvodka.json/16
