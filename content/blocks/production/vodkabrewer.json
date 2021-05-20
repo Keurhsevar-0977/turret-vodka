@@ -1,7 +1,7 @@
-type: vodkabrewer
+type: GenericCrafter
 
 name: Vodka Brewer
-description: 
+description: Makes Vodka with titanium and water (somehow).
 
 health: 350
 liquidCapacity: 100
@@ -23,6 +23,7 @@ consumes: {
     items:{
      items:[
       titanium/2
+      
       
       ]
    }
