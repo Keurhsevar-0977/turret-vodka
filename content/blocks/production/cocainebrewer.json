@@ -1,5 +1,5 @@
 name: Cocaine Brewer
-description: Makes liquid Cocaine with Metaglass and water (somehow).
+description: "Makes LiqoCocaine with Metaglass, Phase and water (somehow)."
 type: GenericCrafter
 size: 2
 hasPower: true
@@ -10,15 +10,16 @@ itemCapacity: 32
 liquidCapacity: 32
 updateEffect: smeltsmoke
 consumes: {
-  power: 15
+  power: 10
   items: {
     items: [
-      metaglass/16
+      metaglass/18
+      phase-fabric/8
     ]
   }
   liquid: {
     liquid: water
-    amount: 1.2
+    amount: 2.0
   }
 }
 requirements: [
