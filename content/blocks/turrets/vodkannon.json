@@ -23,12 +23,12 @@ requirements: [
 ammoTypes: { 
   v-solidified-vodka: { 
     type: BasicBulletType 
-    width: 16
-    height: 21 
+    width: 2
+    height: 4
     hitSize: 5
     damage: 100
     speed: 4
-    lifetime: 100
+    lifetime: 30
   }  
 }  
 inaccuracy: 15
