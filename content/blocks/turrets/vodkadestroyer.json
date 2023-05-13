@@ -1,4 +1,4 @@
-localizedName: Vodka Destoryer.
+localizedName: Vodka Destroyer.
 description: "Hey now, I thought we were done already!"
 size: 2
 type: ItemTurret
@@ -36,7 +36,7 @@ ammoTypes: {
     lifetime: 40
   }  
 }  
-inaccuracy: 15
+inaccuracy: 10
 shoot: {
   shots: 100
   shotDelay: 0
