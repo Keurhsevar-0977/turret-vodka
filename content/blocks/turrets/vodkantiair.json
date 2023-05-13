@@ -4,13 +4,13 @@ description: "Yeah, We're crazy for this one."
 size: 2
 type: ItemTurret
 buildCostMultiplier: 0.1
-scaledHealth: 420
-reload: 20
+scaledHealth: 300
+reload: 10
 range: 100
 maxAmmo: 40
 ammoPerShot: 2
 recoil: 3
-rotateSpeed: 2 
+rotateSpeed: 3
 targetAir: true
 targetGround: false
 shootY: -2
