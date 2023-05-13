@@ -1,5 +1,5 @@
 name: Vodka Brewer
-description: Makes Vodka with titanium and water (somehow).
+description: "Makes Vodka with titanium, graphite and water."
 type: GenericCrafter
 size: 2
 hasPower: true
@@ -14,11 +14,12 @@ consumes: {
   items: {
     items: [
       titanium/8
+      graphite/4
     ]
   }
   liquid: {
     liquid: water
-    amount: 0.4
+    amount: 0.8
   }
 }
 requirements: [
@@ -27,4 +28,4 @@ requirements: [
   silicon/250
 ]
 category: crafting
-outputLiquid: v-turretvodka/16
+outputLiquid: v-turretvodka/8
