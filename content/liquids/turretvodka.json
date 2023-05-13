@@ -2,7 +2,7 @@ name: Turret Vodka
 description: "Vodka for... turrets? Hah."
 details: "[lime]Boosts turret firerate by 5x."
 temperature: 0
-flammability: 1
+flammability: 0
 viscosity: 0
 heatCapacity: 4
 explosiveness: 0
