@@ -11,23 +11,23 @@ maxAmmo: 40
 ammoPerShot: 2
 recoil: 3
 rotateSpeed: 2 
-targetAir: true 
+targetAir: false 
 targetGround: true 
 shootY: -2
 shootSound: shootBig
 requirements: [ 
-  titanium/300
-  thorium/200
+  titanium/250
+  thorium/175
   plastanium/125
 ]  
 ammoTypes: { 
   v-solidified-vodka: { 
     type: BasicBulletType 
-    width: 2
-    height: 4
-    hitSize: 5
-    damage: 100
-    speed: 4
+    width: 3
+    height: 5
+    hitSize: 6
+    damage: 30
+    speed: 5
     lifetime: 30
   }  
 }  
