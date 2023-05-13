@@ -1,5 +1,5 @@
-name: Vodka Brewer
-description: Makes Vodka with titanium and water (somehow).
+name: Cocaine Brewer
+description: Makes liquid Cocaine with Metaglass and water (somehow).
 type: GenericCrafter
 size: 2
 hasPower: true
@@ -13,7 +13,7 @@ consumes: {
   power: 10
   items: {
     items: [
-      titanium/8
+      metaglass/8
     ]
   }
   liquid: {
@@ -27,4 +27,4 @@ requirements: [
   silicon/250
 ]
 category: crafting
-outputLiquid: v-turretvodka/16
+outputLiquid: v-liquidcocaine/16

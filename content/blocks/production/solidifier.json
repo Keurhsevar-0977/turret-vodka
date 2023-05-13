@@ -1,5 +1,5 @@
-name: Vodka Brewer
-description: Makes Vodka with titanium and water (somehow).
+name: Solidifier
+description: makes solid vodka.
 type: GenericCrafter
 size: 2
 hasPower: true
@@ -11,13 +11,8 @@ liquidCapacity: 32
 updateEffect: smeltsmoke
 consumes: {
   power: 10
-  items: {
-    items: [
-      titanium/8
-    ]
-  }
   liquid: {
-    liquid: water
+    liquid: v-turretvodka
     amount: 0.4
   }
 }
@@ -27,4 +22,4 @@ requirements: [
   silicon/250
 ]
 category: crafting
-outputLiquid: v-turretvodka/16
+outputItem: v-solidified-vodka

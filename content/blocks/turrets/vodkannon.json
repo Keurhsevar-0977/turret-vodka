@@ -16,10 +16,10 @@ consumes: {
 }
 
 ammoTypes: {
-  turretvodka: {
+  v-turretvodka: {
     type: liquid
     liquid: turretvodka
-    damage: 4
+    damage: 400
     speed: 6
     lifetime: 102
     drag: 0.01
