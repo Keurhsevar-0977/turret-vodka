@@ -31,9 +31,9 @@ ammoTypes: {
     lifetime: 100
   }  
 }  
-inaccuracy: 10
+inaccuracy: 15
 shoot: {
-  shots: 8
+  shots: 6
   shotDelay: 0
 } 
 category: turret 
