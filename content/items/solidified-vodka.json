@@ -2,7 +2,7 @@ type: Item
 
 
 name: Solidified Vodka
-description: привет! Solidified vodka made in the Solidifier. Pretty tough and very explosive.
+description: "привет! Solidified vodka made in the Solidifier. Pretty tough and very explosive."
 
 explosiveness: 1
 radioactivity: 0
