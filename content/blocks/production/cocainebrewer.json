@@ -1,7 +1,7 @@
 name: Cocaine Brewer
 description: Makes liquid Cocaine with Metaglass and water (somehow).
 type: GenericCrafter
-size: 2
+size: 3
 hasPower: true
 hasLiquids: true
 hasItems: true
@@ -10,7 +10,7 @@ itemCapacity: 32
 liquidCapacity: 32
 updateEffect: smeltsmoke
 consumes: {
-  power: 20
+  power: 15
   items: {
     items: [
       metaglass/16
@@ -28,4 +28,4 @@ requirements: [
   thorium/150
 ]
 category: crafting
-outputLiquid: v-liquidcocaine/8
+outputLiquid: v-liquidcocaine/6
