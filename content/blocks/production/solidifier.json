@@ -13,7 +13,7 @@ consumes: {
   power: 10
   liquid: {
     liquid: v-turretvodka
-    amount: 0.4
+    amount: 1.0
   }
 }
 requirements: [
