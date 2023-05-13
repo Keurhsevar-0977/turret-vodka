@@ -1,5 +1,5 @@
-name: Solidifier
-description: makes solid vodka.
+name: Vodka Solidifier
+description: "Solidifies Vodka using an experimental method of catalyst burning. It doesn't actually, I just wanted to say something nerdy."
 type: GenericCrafter
 size: 2
 hasPower: true
