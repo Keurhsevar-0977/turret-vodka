@@ -14,7 +14,7 @@ consumes: {
   liquid: {
     liquid: v-turretvodka
     amount: 0.4
-  
+  }
 }
 requirements: [
   copper/200
