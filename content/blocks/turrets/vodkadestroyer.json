@@ -14,6 +14,9 @@ targetAir: true
 targetGround: true
 shootY: -2
 shootSound: shootBig
+consumes: {
+  coolant
+}
 requirements: [ 
   titanium/300
   silicon/250
