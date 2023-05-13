@@ -5,7 +5,7 @@ size: 2
 type: ItemTurret
 buildCostMultiplier: 0.1
 scaledHealth: 420
-reload: 20
+reload: 15
 range: 100
 maxAmmo: 40
 ammoPerShot: 2
