@@ -14,7 +14,7 @@ consumes: {
   liquid: {
     liquid: v-turretvodka
     amount: 0.4
-  }
+  
 }
 requirements: [
   copper/200
@@ -22,4 +22,4 @@ requirements: [
   silicon/250
 ]
 category: crafting
-outputItem: solidified-vodka/1
+outputItem: solidified-vodka/3
