@@ -1,0 +1,40 @@
+
+localizedName: Vodka C-RAM
+description: "Yeah, We're crazy for this one."
+size: 2
+type: ItemTurret
+buildCostMultiplier: 0.1
+scaledHealth: 420
+reload: 20
+range: 100
+maxAmmo: 40
+ammoPerShot: 2
+recoil: 3
+rotateSpeed: 2 
+targetAir: true
+targetGround: false
+shootY: -2
+shootSound: shootBig
+requirements: [ 
+  titanium/300
+  silicon/250
+  thorium/175
+  plastanium/125
+]  
+ammoTypes: { 
+  v-solidified-vodka: { 
+    type: BasicBulletType 
+    width: 3
+    height: 5
+    hitSize: 6
+    damage: 30
+    speed: 10
+    lifetime: 30
+  }  
+}  
+inaccuracy: 5
+shoot: {
+  shots: 4
+  shotDelay: 0
+} 
+category: turret 
