@@ -2,6 +2,6 @@ name: "v"
 displayName: "Turret Vodka"
 author: "Keurhsevar"
 description: "Adds Vodka, but not the kind that you get. Instead, boosts turret firerate by 5x. Adds turret Liquid Cocaine which boosts most turret speeds by 1000x (sometimes 999.99x but still.) UNOBTAINABLE WITHOUT LIQUID SOURCES...FOR NOW."
-version: "1.3.11"
+version: "1.3.12"
 minGameVersion: "138"
 hidden: false
